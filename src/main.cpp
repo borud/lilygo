@@ -56,5 +56,5 @@ void loop() {
     ltoa(micros(), buf, 10);
     
     printCentered(buf);
-    delay(10000);
+    delay(60000);
 }
